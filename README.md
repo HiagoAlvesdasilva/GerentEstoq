@@ -1,0 +1,2 @@
+OBS: 
+TODAS AS CLASSES DENTRO DE UM PACK CHAMADO  gerenciamentodeEstoque
